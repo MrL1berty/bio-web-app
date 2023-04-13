@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+body {
+background-image: url("Black.jpg");
+background-size: cover;
+color: black;
+text-align: center;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+.profile_pic { 
+height:100;
+width:100;  
+border-radius: 50%;
+}
+
+.btn{
+display: block;
+color: black;
+padding: 20px;/*top right bottom left*/
+background: white;
+margin:15px;
+box-shadow: 10px 10px #F77F00;
+}
+
+a{
+	text-decoration: none;
+}
+
+.yt
+{ color: red;}
+.insta{
+color: purple;
+}
